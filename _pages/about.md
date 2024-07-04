@@ -7,7 +7,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic_2.jpg
+  image: marce_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Rice University</p>
